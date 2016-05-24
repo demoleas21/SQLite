@@ -1,1 +1,1 @@
-SQLite test environment
+# SQLite test environment
